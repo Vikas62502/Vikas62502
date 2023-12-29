@@ -20,6 +20,11 @@
 
 
 <div width="100%" align="center">
+ 
   <a><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas62502&theme=radical" alt="Max Streak"/></a>
   <a><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vikas62502&show_icons=true&theme=radical" alt="Vikas Yadav's GitHub stats" /></a>
+<br/>
+   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vikas62502" alt="GitHub Trophies" />
+</a>
 </div>
