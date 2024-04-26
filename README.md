@@ -1,7 +1,7 @@
 <h1 align="center">Vikas Yadav</h1>
 <h3 align="center">Full Stack Developer || Web 3.0 Developer || Blockchain Enthusiast</h3>
 
-- 💬 Ask me about **React js , Javascript, Web 3**
+- 💬 Ask me about **Nextjs, React js, MERN, Web 3**
 
 - 📫 How to reach me **vikasyadavbyte@gmail.com**
 
