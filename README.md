@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikas62502" target="_blank">
+  <a href="https://www.linkedin.com/in/vikasyadav62" target="_blank">
     <img src="https://img.shields.io/badge/-Vikas%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikasyadav_linkedin" />
   </a>
 </p>
