@@ -17,6 +17,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikas-yadav-62502" target="_blank">
+    <img src="https://img.shields.io/badge/-Vikas%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikasyadav_linkedin" />
+  </a>
+</p>
+
+
 ### 🔭 Current Work
 - I’m currently working on [Chairbord Agent Mobile App](https://play.google.com/store/apps/details?id=com.chairbord&hl=en)
 
