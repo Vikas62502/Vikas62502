@@ -11,15 +11,16 @@
   </a>
 </p>
 
+
 <p align="center">
-  <a href="https://x.com/vikasyadav_eth" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vikasyadav_eth?logo=twitter&style=for-the-badge" alt="vikasyadav_eth" />
+  <a href="https://www.linkedin.com/in/vikas62502" target="_blank">
+    <img src="https://img.shields.io/badge/-Vikas%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikasyadav_linkedin" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikas-yadav-62502" target="_blank">
-    <img src="https://img.shields.io/badge/-Vikas%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikasyadav_linkedin" />
+  <a href="https://x.com/vikasyadav_eth" target="blank">
+    <img src="https://img.shields.io/twitter/follow/vikasyadav_eth?logo=twitter&style=for-the-badge" alt="vikasyadav_eth" />
   </a>
 </p>
 
