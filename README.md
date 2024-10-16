@@ -25,21 +25,6 @@
   </a>
 </p>
 
-
-### 🔭 Current Work
-- I’m currently working on [Chairbord Agent Mobile App](https://play.google.com/store/apps/details?id=com.chairbord&hl=en)
-
-### 👨‍💻 Projects
-- All of my projects are available on [LinkedIn](https://www.linkedin.com/in/vikasyadav62/)
-
-### 💬 Ask me about
-**WEB 3.0, Next.js, React.js, Node.js, MongoDB, PostgreSQL, AWS**
-
-### 📫 How to reach me
-**vikasyadavbyte@gmail.com**
-
----
-
 ### 🧑‍💼 Connect with me:
 <p align="left">
   <a href="https://x.com/vikasyadav_eth" target="blank">
