@@ -134,7 +134,6 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas62502&show_icons=true&locale=en" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas62502" alt="GitHub Streak" height="200" />
 </p>
 
