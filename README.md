@@ -132,15 +132,16 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas62502&show_icons=true&locale=en" alt="vikas62502" height="500" width="500"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas62502&" alt="vikas62502" height="500" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas62502&show_icons=true&locale=en" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas62502" alt="GitHub Streak" height="200" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/vikas62502">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas62502&show_icons=true&locale=en&layout=compact" alt="vikas62502 top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas62502&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200" />
   </a>
 </p>
