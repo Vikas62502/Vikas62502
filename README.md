@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://vikasyadav.online">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vikasyadav62/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
