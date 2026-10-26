@@ -89,26 +89,87 @@ Before that, a full-stack internship at Cadillacs: Next.js and React for 2,000+ 
    observe → maybe another tool
            │
            ▼
+<<<<<<< HEAD
    answer from tool output only
 ```
 
 Amounts, statuses, and users come from the database or the API. The model does not get to invent them.
+=======
+   human answer from tool output only
+```
+
+Interview version: **planner → tools → observe → answer**. If the tool says unpaid, the answer is unpaid.
+
+---
+
+### Stack
+
+**Languages**  
+`JavaScript` `TypeScript` `SQL`
+
+**Backend**  
+`Node.js` `Express` `Sequelize` `PostgreSQL` `Redis` `REST`
+
+**Frontend**  
+`React` `Next.js` `Tailwind CSS`
+
+**Agentic AI**  
+`Gemini` `tool calling` `structured output` `vision / OCR` `MCP` `evals`
+
+**Infra**  
+`Docker` `Nginx` `Linux` `AWS` `Git`
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="nextjs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="aws"/>
+</p>
+
+---
+
+### Featured
+
+Public demos go here. Keep work-repo code private.
+
+| Project | What it shows |
+| --- | --- |
+| **[ledger-agent](https://github.com/vikas62502)** *(add repo)* | Grounded dispute agent: screenshot → tools (`find_by_utr`, `find_tag_serial`, `list_txns`) → cited answer. Eval set of paid/unpaid cases. |
+| **Production APIs** | High-volume Node + Postgres: wallets, payments, inventory, role-scoped access |
+| **MCP (optional extra)** | Same tools exposed to Cursor — REST agent first, MCP as a thin wrapper |
+>>>>>>> ae39262d9a7bdae0e1db8f9c999b2dced6997e78
 
 ---
 
 ### GitHub
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api?username=vikas62502&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas62502&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vikas62502&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+=======
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vikas62502&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas62502&layout=compact&theme=transparent&hide_border=true" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vikas62502&theme=transparent&hide_border=true" alt="streak" />
+>>>>>>> ae39262d9a7bdae0e1db8f9c999b2dced6997e78
 </p>
 
 ---
 
+<<<<<<< HEAD
 <p align="center">
   <a href="https://vikasyadav.online"><b>vikasyadav.online</b></a>
   &nbsp;·&nbsp;
@@ -118,3 +179,10 @@ Amounts, statuses, and users come from the database or the API. The model does n
   &nbsp;·&nbsp;
   <a href="https://github.com/Vikas62502">GitHub</a>
 </p>
+=======
+### Contact
+
+- LinkedIn: [vikasyadav62](https://www.linkedin.com/in/vikasyadav62)
+- X: [vikasyadav_eth](https://x.com/vikasyadav_eth)
+- LeetCode: [vikas62502](https://leetcode.com/vikas62502/)
+>>>>>>> ae39262d9a7bdae0e1db8f9c999b2dced6997e78
