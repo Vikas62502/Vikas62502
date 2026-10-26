@@ -9,19 +9,19 @@
 
 <p align="center">
   <a href="https://vikasyadav.online">
-    <img src="https://img.shields.io/badge/Portfolio-vikasyadav.online-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vikasyadav62/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vikasyadav62502@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vikasyadav62502-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/vikasyadav_eth">
-    <img src="https://img.shields.io/badge/X-vikasyadav__eth-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://leetcode.com/vikas62502/">
-    <img src="https://img.shields.io/badge/LeetCode-vikas62502-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
@@ -45,11 +45,11 @@ Before that, a full-stack internship at Cadillacs: Next.js and React for 2,000+ 
 
 ### Selected work
 
-| | |
+| Work | What it shows |
 | --- | --- |
 | **FASTag platform** | Mobile app, admin panel, wallet ledger, and bank integrations. [Chairbord_V2](https://github.com/Vikas62502/Chairbord_V2) |
 | **Inventory and quotation** | TypeScript Node backends and Next.js UIs. [inventorybackend](https://github.com/Vikas62502/inventorybackend) · [inventoryfrontend](https://github.com/Vikas62502/inventoryfrontend) · [quotation](https://github.com/Vikas62502/quotation) |
-| **Grounded dispute agent** | Screenshot or sentence in, then tools (`find_by_utr`, `find_tag_serial`, `list_txns`) and a cited answer. Paid stays paid when the tool says paid. |
+| **Grounded dispute agent** | Screenshot or sentence in, then tools (`find_by_utr`, `find_tag_serial`, `list_txns`) and a cited answer. If the tool says unpaid, the answer is unpaid. |
 | **Voice assistant** | Flutter demo where the user stays in control of what the assistant can do. [Voice-Assistance-APK-GEN](https://github.com/Vikas62502/Voice-Assistance-APK-GEN) |
 | **WhatsApp campaigns** | TypeScript campaign manager. [whatsapp-campaign-manager](https://github.com/Vikas62502/whatsapp-campaign-manager) |
 | **Stripe payments** | A separate TypeScript payment service. [stripePaymentService](https://github.com/Vikas62502/stripePaymentService) |
@@ -62,7 +62,7 @@ Before that, a full-stack internship at Cadillacs: Next.js and React for 2,000+ 
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgresql,mongodb,redis,docker,aws,nginx,tailwind,flutter,git,linux&perline=8" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, AWS, Nginx, Tailwind, Flutter, Git, Linux" />
 </p>
 
-| | |
+| Area | What I use |
 | --- | --- |
 | **Languages** | TypeScript, JavaScript, SQL, Dart |
 | **Clients** | React, Next.js, React Native, Redux, Flutter, Tailwind |
@@ -76,21 +76,21 @@ Before that, a full-stack internship at Cadillacs: Next.js and React for 2,000+ 
 
 ### How I build agents
 
-<pre>
-  question / screenshot
-           │
-           ▼
-   extract structured IDs     ← Gemini (JSON only)
-           │
-           ▼
-   tools: SQL / APIs / MCP    ← Postgres, wallet, inventory
-           │
-           ▼
-   observe → maybe another tool
-           │
-           ▼
-   human answer from tool output only
-</pre>
+```text
+question / screenshot
+        │
+        ▼
+ extract structured IDs     ← Gemini (JSON only)
+        │
+        ▼
+ tools: SQL / APIs / MCP    ← Postgres, wallet, inventory
+        │
+        ▼
+ observe → maybe another tool
+        │
+        ▼
+ human answer from tool output only
+```
 
 Interview version: **planner → tools → observe → answer**. If the tool says unpaid, the answer is unpaid.
 
@@ -101,8 +101,8 @@ Amounts, statuses, and users come from the database or the API. The same tools c
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas62502&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas62502&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas62502&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas62502&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
